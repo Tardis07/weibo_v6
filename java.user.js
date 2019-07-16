@@ -1485,7 +1485,7 @@ if (false || (new RegExp("^(http|https)://(www.weibo.com|weibo.com)/+.*$")).test
         "        }",
         "    }",
         "    /*配色*/",
-        ".WB_media_a>li:nth-of-type(3n) {",
+        ".WB_media_a_m9>li:nth-of-type(3n) {",
         "    margin-right: 200px;",
         "}",
         ".WB_feed_handle .WB_handle {",
